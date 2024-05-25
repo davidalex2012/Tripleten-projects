@@ -11,3 +11,5 @@
 ## [Proyecto 5](https://github.com/davidalex2012/Tripleten-projects/blob/1954029a21857ff36c94dbb041cb51f1aa14ab0a/Proyecto%205.ipynb)
 
 ## [Proyecto 6](https://github.com/davidalex2012/Tripleten-projects/blob/806870deff75721229b08d179e6f697380e48913/Proyecto%206.ipynb)
+
+## [Proyecto 7](https://github.com/davidalex2012/Tripleten-projects/blob/41d56164e8dedec45180ce52aad93212e7fb2a18/Proyecto%207.ipynb)
